@@ -1,0 +1,1 @@
+ /Users/lunack/Desktop/Formation\ Logi\ -\ API/code/produits_femier_app/.dart_tool/flutter_build/a9e99efcb718d564d1febcf01f8b0db7/native_assets.yaml: 
